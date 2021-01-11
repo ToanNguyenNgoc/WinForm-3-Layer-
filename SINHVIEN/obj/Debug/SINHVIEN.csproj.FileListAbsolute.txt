@@ -1,0 +1,17 @@
+C:\Users\toan\source\repos\BTL_LapTrinhTrucQuan\SINHVIEN\SINHVIEN\bin\Debug\SINHVIEN.exe.config
+C:\Users\toan\source\repos\BTL_LapTrinhTrucQuan\SINHVIEN\SINHVIEN\bin\Debug\SINHVIEN.exe
+C:\Users\toan\source\repos\BTL_LapTrinhTrucQuan\SINHVIEN\SINHVIEN\bin\Debug\SINHVIEN.pdb
+C:\Users\toan\source\repos\BTL_LapTrinhTrucQuan\SINHVIEN\SINHVIEN\bin\Debug\BUS.dll
+C:\Users\toan\source\repos\BTL_LapTrinhTrucQuan\SINHVIEN\SINHVIEN\bin\Debug\DAL.dll
+C:\Users\toan\source\repos\BTL_LapTrinhTrucQuan\SINHVIEN\SINHVIEN\bin\Debug\DTO.dll
+C:\Users\toan\source\repos\BTL_LapTrinhTrucQuan\SINHVIEN\SINHVIEN\bin\Debug\BUS.pdb
+C:\Users\toan\source\repos\BTL_LapTrinhTrucQuan\SINHVIEN\SINHVIEN\bin\Debug\DAL.pdb
+C:\Users\toan\source\repos\BTL_LapTrinhTrucQuan\SINHVIEN\SINHVIEN\bin\Debug\DTO.pdb
+C:\Users\toan\source\repos\BTL_LapTrinhTrucQuan\SINHVIEN\SINHVIEN\obj\Debug\SINHVIEN.csprojAssemblyReference.cache
+C:\Users\toan\source\repos\BTL_LapTrinhTrucQuan\SINHVIEN\SINHVIEN\obj\Debug\SINHVIEN.Form1.resources
+C:\Users\toan\source\repos\BTL_LapTrinhTrucQuan\SINHVIEN\SINHVIEN\obj\Debug\SINHVIEN.Properties.Resources.resources
+C:\Users\toan\source\repos\BTL_LapTrinhTrucQuan\SINHVIEN\SINHVIEN\obj\Debug\SINHVIEN.csproj.GenerateResource.cache
+C:\Users\toan\source\repos\BTL_LapTrinhTrucQuan\SINHVIEN\SINHVIEN\obj\Debug\SINHVIEN.csproj.CoreCompileInputs.cache
+C:\Users\toan\source\repos\BTL_LapTrinhTrucQuan\SINHVIEN\SINHVIEN\obj\Debug\SINHVIEN.csproj.CopyComplete
+C:\Users\toan\source\repos\BTL_LapTrinhTrucQuan\SINHVIEN\SINHVIEN\obj\Debug\SINHVIEN.exe
+C:\Users\toan\source\repos\BTL_LapTrinhTrucQuan\SINHVIEN\SINHVIEN\obj\Debug\SINHVIEN.pdb

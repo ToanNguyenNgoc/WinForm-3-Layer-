@@ -1,0 +1,6 @@
+C:\Users\toan\source\repos\BTL_LapTrinhTrucQuan\SINHVIEN\DTO\bin\Debug\DTO.dll
+C:\Users\toan\source\repos\BTL_LapTrinhTrucQuan\SINHVIEN\DTO\bin\Debug\DTO.pdb
+C:\Users\toan\source\repos\BTL_LapTrinhTrucQuan\SINHVIEN\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\toan\source\repos\BTL_LapTrinhTrucQuan\SINHVIEN\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\toan\source\repos\BTL_LapTrinhTrucQuan\SINHVIEN\DTO\obj\Debug\DTO.dll
+C:\Users\toan\source\repos\BTL_LapTrinhTrucQuan\SINHVIEN\DTO\obj\Debug\DTO.pdb

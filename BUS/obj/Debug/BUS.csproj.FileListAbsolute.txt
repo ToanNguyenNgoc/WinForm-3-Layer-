@@ -1,0 +1,11 @@
+C:\Users\toan\source\repos\BTL_LapTrinhTrucQuan\SINHVIEN\BUS\bin\Debug\BUS.dll
+C:\Users\toan\source\repos\BTL_LapTrinhTrucQuan\SINHVIEN\BUS\bin\Debug\BUS.pdb
+C:\Users\toan\source\repos\BTL_LapTrinhTrucQuan\SINHVIEN\BUS\bin\Debug\DAL.dll
+C:\Users\toan\source\repos\BTL_LapTrinhTrucQuan\SINHVIEN\BUS\bin\Debug\DTO.dll
+C:\Users\toan\source\repos\BTL_LapTrinhTrucQuan\SINHVIEN\BUS\bin\Debug\DAL.pdb
+C:\Users\toan\source\repos\BTL_LapTrinhTrucQuan\SINHVIEN\BUS\bin\Debug\DTO.pdb
+C:\Users\toan\source\repos\BTL_LapTrinhTrucQuan\SINHVIEN\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\toan\source\repos\BTL_LapTrinhTrucQuan\SINHVIEN\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\toan\source\repos\BTL_LapTrinhTrucQuan\SINHVIEN\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\toan\source\repos\BTL_LapTrinhTrucQuan\SINHVIEN\BUS\obj\Debug\BUS.dll
+C:\Users\toan\source\repos\BTL_LapTrinhTrucQuan\SINHVIEN\BUS\obj\Debug\BUS.pdb
